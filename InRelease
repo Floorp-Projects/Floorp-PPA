@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Mon, 03 Oct 2022 09:26:37 +0000
+MD5Sum:
+ 70948db873d6f98fee4a49c2aade9f90             1304 Packages
+ bf19e5d71997b91a004a05b06e0a00f9              746 Packages.gz
+ 379cfcb5f29e05d9641b14b5a6b048b3               38 Release
+SHA1:
+ a6a4ca096984186c6edfd9e25937485dceeaa770             1304 Packages
+ e499cf08185dec18dbb957ee6532da5090b4cd89              746 Packages.gz
+ 0c7ab9e4d7bb0b045857407b94f81e26109d3c94               38 Release
+SHA256:
+ 9e72341ec49d65a06d9394a6fe161de4463e1f45f1151710582004a285bff1e5             1304 Packages
+ d550e9a3c4fb76234bf7d7700e5a7d305496b48814ce491bc87889f8139a91f2              746 Packages.gz
+ 59079d531cd6705f041cd062c594a62e8cc0557ab1c3cde55fea6bac8b5c10fc               38 Release
+SHA512:
+ 078013d470d3f7b9223e19c8dcce3cd92ed42eef55c5db2c9c5920ac0ab060e8de931aa213b329dee36e2d35ace5563ea693beb09c27f48aeadc779d75d83e91             1304 Packages
+ 016b59661593211de53f3cb2f84649af0c32aaebe2d33d0a4954ae5673305bf602114bbe49e1f16fb258aa9ec95f3a17eece7cfea302879fd0a23357c874d0ce              746 Packages.gz
+ 690419a72a87b67cf16f119a5d3d108f923deba723ef7c4246de560c5abbd8ac561ecd48b612613c9eed8718fa9f938fb57c38adeabc081927a5f5c6c8b23e4c               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEqMIPzdV3OZQagT1dj2Tcx8gG1XIFAmM6qvMACgkQj2Tcx8gG
+1XJuBw/+KIoHVMwWGbD2vb3jOemgXIMCZLN1zcJ/0H74hJ0ZFklG92PB7z16O8v/
+DoWpGEyIZK/KJxHQ1jB5jTFjlXNqeQ0eh9Qolug7/AI6GURSS6PbCJvz3KbDt5yE
+Qf78Cubw57EJSLUyenQeiFdyYIDmcxGsGG02iegQgz6bGkNkx/wjY05YlnDQvfKL
+e6vnR57kUETqjYx0fNROvE3QELksCCbgRbUb8fXuqx48fLhlOVjfYzdK9SYqYJ9R
+TxaR8jXpMddePjyqOWvKzDUgl2wY4KGa9+VREl0QIKRetPeph+ZEMOUYZ+yKUTyv
+XSZxMOBnLaHCqdM+JMd4TGqG0/g6uPTkFSQv+IQdwZlo4J5s/7EOXfs0THGBkncs
+vpSCTr18EE4p+ysG29rvwcQBmfbxub+DzwcG5nDmfSndCWRTgc2xALfnoY+M8a42
+9nnrxnAISw8jm2UE75poOM0CHZBbIuFtBpBlzUaIaTsMe+qcP1gojYI1ARKkd/95
+36tw7Z+/wNu4LI9ugOewB0taoJVO2CbK8+PnMkf7yA4xZnKwadVNG0wD01G4Ln1B
+ySARaFDmvbUFtQWxfjXVZQaELfLscU2L3om9kU7kzaFvVKiPaUCg+HpZ9I+Y1cFp
+jSgbOvL7ngvoxElviHAik7w7dCdgwcbVjN30tCTBftzkjI4XR9Q=
+=DCrb
+-----END PGP SIGNATURE-----
