@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/my_ppa.gpg] https://Floorp-Projects.github.io/Floorp-PPA ./
+deb [signed-by=/usr/share/keyrings/Floorp.gpg] https://Floorp-Projects.github.io/Floorp-PPA ./
