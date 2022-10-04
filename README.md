@@ -9,6 +9,3 @@ $ sudo curl -sS --compressed -o /etc/apt/sources.list.d/Floorp.list "https://Flo
 $ sudo apt update
 $ sudo apt install floorp
 ```
-
-
-
