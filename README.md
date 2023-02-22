@@ -1,3 +1,5 @@
+### This repository is currently not in use. Please see here: https://ppa.ablaze.one/
+
 Floorp repository for Ubuntu.
 
 ## Usage
