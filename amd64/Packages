@@ -1,0 +1,816 @@
+Package: floorp
+Version: 10.10.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 294540
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.10.0.deb
+Size: 103131492
+MD5sum: 7dc0d2b4a6a64ea491d9d0d4cde10732
+SHA1: 4a40e9b627b1d1c97fd8636d5a87ead887705228
+SHA256: 6c1309b7ae2b87526e5bb57a0540f90eedde7e866582f1888eed77994a943286
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.10.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 268068
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.10.1.deb
+Size: 83704216
+MD5sum: 38b04b5256284388e7429b8451eb28c5
+SHA1: a4879398a461e037a84763579e786e70e595d6a2
+SHA256: b9ceed56d9df93bad6e35fdca4cc01496fd658bcde69f2d023e7fae40f0ad69a
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.11.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 268344
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.11.0.deb
+Size: 83750352
+MD5sum: 9a06e6b09d57dcdc70621494350833ee
+SHA1: 44a968093650fc1dd4ab381b44d3c9450c046b13
+SHA256: d51f6ae6e463b180f786099d41b2a358eae212de879f7600ef240736a90c1aba
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.11.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 268300
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.11.1.deb
+Size: 83758428
+MD5sum: 49e1093dd756e5e8f17862e616beb441
+SHA1: 226aec631c2f88e22760109739258b35d40d56d1
+SHA256: bbf1fad4f120823390f1f4ba23f717900bca5761258006f1cba0f62f8005e250
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.12.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 268308
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.12.0.deb
+Size: 44228272
+MD5sum: 255e4270d6309b1e7a9f70e249274be5
+SHA1: ea3e6d7871abee5fb29aaa8b5618187abe19438d
+SHA256: 4c759f57ad117887f2edf56895b035fdc8fb53b77b283872fa27b2b01b5b97ec
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.13.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 268604
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.13.0.deb
+Size: 74980984
+MD5sum: b24a207776bb61dd310dae78095724a9
+SHA1: 1d4c7c104b6a8f071f070d7c1c43fd05edd2c20b
+SHA256: 254d8d1b246f2041abb1669f2aa41d12ac4202a9910cf84bb8ecd9011e760500
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.14.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 268880
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.14.0.deb
+Size: 33185400
+MD5sum: d2d36e0f11316a99db12b5eff480a399
+SHA1: b519a648b07316b1c490c386973af176169f384f
+SHA256: 95fe2e126937e331a8b4d897d9ef7276661ab0595218d371c0281a5ec81fa763
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based, privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.15.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 268840
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.15.0.deb
+Size: 85046176
+MD5sum: 3a56646a10f93828293f62bbc7f6720c
+SHA1: 37ee09ac5bf80d15f36ff7e876e92949c5d65d55
+SHA256: eff81f4173617f6a49ae569db8f193f28e8fb1be2b8a45328a7e3fe800dbe9d0
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based, privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.16.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 268772
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.16.0.deb
+Size: 88436824
+MD5sum: 94488af0be1054545c033df9fd0184e6
+SHA1: 96311de1ec2043ac2039cb956c74b3e183c27344
+SHA256: 86d67806c18e439ef568a2918606a3a4b3e418c2f1afd98517a92b838085600d
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based, privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.6.0
+Architecture: amd64
+Maintainer: Floorp project
+Depends: lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.6.0.deb
+Size: 81552664
+MD5sum: 50d3a4347e62e18ab4284c33ffd51eed
+SHA1: 00e383b8605700068a5c51de4b5f4d816e670b64
+SHA256: 228f21021946457ba4dd881c9b208dc040559d9764dd6e63d13c8598cc3c181e
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.6.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 271456
+Depends: lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.6.1.deb
+Size: 81535156
+MD5sum: f38eda6eb9fdd91485fe4122287429f2
+SHA1: 3997f5778df2e913afe54ca5105c5943486546cc
+SHA256: 09dab48dbc1962a787e9e2f463f05763e185dda1fd8dc7d667822a4b508b1293
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.6.2
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 298284
+Depends: lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.6.2.deb
+Size: 100790212
+MD5sum: 29a7a3b60c60e94a0e08206cb9873d78
+SHA1: 34e6b9856fbd865eb2d0143e60e42d4ad19ce6a3
+SHA256: ad4c9971f907d02cc132285b00bd1ead1e33d48cf48a780047fa5210b8dc4d7b
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.7.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 294396
+Depends: lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.7.0.deb
+Size: 102558300
+MD5sum: b5b497c877fb84ef2cf753be5d0995b7
+SHA1: be8daa8dd4322d9f65b42a0146ac7463e4357202
+SHA256: fd792baded9e1169c684f74aa8180b0c99a62f62107c1bd10d5fe5464cdb68aa
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.8.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 295280
+Depends: lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.8.0.deb
+Size: 103342856
+MD5sum: 966c378185c579def248a4abcdf6078a
+SHA1: 579528132ccbe3c2d171f2c409ff133b60ab8421
+SHA256: 921cc4e1ed34eef5e9809980a683fa66e5236900af444881ec073f493a4843b0
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 10.9.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 294204
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-10.9.0.deb
+Size: 47261272
+MD5sum: b103fca6fe91035f1754ad5d1442e56b
+SHA1: 679c24bc4755209fbaf04bfdf36c8ef23ae0e17c
+SHA256: 61a4c563f6b27d8121b89c665e91c6b4c315e5581fb2a37c9cae6116dd613884
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.1.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 280172
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.1.0.deb
+Size: 91004386
+MD5sum: f857ba4257ce8ef04e7fa4d04e8890e9
+SHA1: f0b6a157a97a79831b9a4053dc5eb45ff2d6b564
+SHA256: 84ec1e18bc4714155f875eb9477c3aa3dd5b82dc755d49ef3f8b7b2374a4a38e
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.1.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291472
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.1.1.deb
+Size: 92325764
+MD5sum: e27ce7e1bc121813324d09adba1e845d
+SHA1: 25429d071f599e08d23f0cfef1a7290af4ad103c
+SHA256: 44a8d1a3da2016c7066d32aefc49595ae82db6c9aae719e91a34e3ae2572479e
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.1.2
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291628
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.1.2.deb
+Size: 92437936
+MD5sum: 058fc7e9a2d1e0b4c03e013d725f55cd
+SHA1: 4005a78397709ae999d75ef2a1ee9687a5674c4a
+SHA256: 2727fcad7f05509d5ca210edb060143335c0f60c3450fbeca356b681b2ac48be
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.10.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 293932
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.10.0.deb
+Size: 92939260
+MD5sum: ea59558dd5cb07cecc05c67c28648c6c
+SHA1: ee8f8eb2fa40f31c4530cfe0ea80356fce1e5984
+SHA256: b338aa357b6bfe11e20eac891de5e1f25d509381c5c560592395216a5bfd939e
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.10.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 293908
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.10.1.deb
+Size: 92864796
+MD5sum: 98d96ae02d7cfb19809952a274047449
+SHA1: 6a8b06d1f2c74565de79be1ac243678cf931b209
+SHA256: 27e3b62a65b2d0a7dbe24738a8b2a4e4b678cd47d5511abf7306356690a84740
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.10.2
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 293948
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.10.2.deb
+Size: 92887572
+MD5sum: 1c7980d7ac1196f3167ba129cd1c0364
+SHA1: ed43b23d0f2c9817ebfac8cf09c3cad718c22fe6
+SHA256: 677b8c1fb10e2878dc8858fec1b8b4f156086105e870308b09e761ac82d31362
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.10.3
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 293996
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.10.3.deb
+Size: 92881838
+MD5sum: e9b950a88efd72f2ae9d18a474573cb8
+SHA1: 8ad17cc2f769505c2efad82a2e98d742b39aca1b
+SHA256: e41bba4747e2ac5f3c4d1713463465e933a12e83ae7e6c603bb385ca0140c1a1
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.10.4
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 294036
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.10.4.deb
+Size: 92906984
+MD5sum: f9d5e493e63fb57a254153d22fe3b432
+SHA1: 129f9f414060ba6ec93207a5a734cd4d5fbbbe55
+SHA256: 7c3b892fdc4d5dd5442ba0aff6fdf51c36f9800021ec00101f8f3cf8b15a0282
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.10.5
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 293904
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.10.5.deb
+Size: 92887586
+MD5sum: 964e36b57cc357aedc6a656bb3911eb9
+SHA1: 0a146f633dd7552905707cd51fea41ae01e23651
+SHA256: 1adcdfc94033637db3dac300d5070f52fd139c7ba919b59e503a17f22e3705d4
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.2.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291856
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.2.0.deb
+Size: 92502626
+MD5sum: 480dde6d54a1960d139de1d48420b217
+SHA1: c6759081bbb8967f8fbb99c6f1658ecbacb84906
+SHA256: ff55c901db40bca5d2f113ac89bf117dedad5801f2fbd7dd0630fd2a03e99b46
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.3.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291452
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.3.0.deb
+Size: 92351072
+MD5sum: 0e62cf5b3508eab2438e61e206c4092e
+SHA1: be691fc241231cddbf58809a014b1cc11090e7c9
+SHA256: c27469ce3b4992d51b51a11c4291fd207b2cd6bebff3023adcdcec4f85343f52
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.3.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291824
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.3.1.deb
+Size: 92508074
+MD5sum: d6dc7ea32d8e2a73fcd6c7dafeb6ea5d
+SHA1: 03eda5035b7008c393e1d99ef1496caa62ced642
+SHA256: 9cde8da13015014440cc87958abedb0679d8ba6cfc9942f245e8c5caefc9642d
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.3.2
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291432
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.3.2.deb
+Size: 92370714
+MD5sum: 5d4efd6d9f1d844698da7ceb22cad771
+SHA1: 2eba6488b7c597276f797dde8d457808e949054c
+SHA256: 270f6b243f1e5fa565f5023af39de099a9e4bc15b033de10ac679138dc0228f7
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.3.3
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291956
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.3.3.deb
+Size: 92448122
+MD5sum: c27a543d4b2b183f96bb674dd523c334
+SHA1: 66ed5aed021d8d491ff7be9ddc38d6ad58dcd857
+SHA256: 07a397d8533b5d9212439506c1b41b4bbd23b2d2b7162d9c0480525f2b8b037e
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.4.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291872
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.4.0.deb
+Size: 92481992
+MD5sum: e9a2b52da34f85bf9e843599e2ec5ea2
+SHA1: 32577a713bacba742a97a2a5841fe535740d0a6b
+SHA256: 3d7733db60d26e75945de8625e11c1f1f08f2590c44e45723315f0ab39e3f5f5
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.4.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291584
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.4.1.deb
+Size: 92348324
+MD5sum: 52459c381d8e51ac170b2fbaeb80b5aa
+SHA1: 65281fc59b958e87fcb56cc0db9a007f3d41ce3b
+SHA256: 00ccbeb0792d89c5d083337e2c7993ed55a5a7854da13fedd26011792d9fb2ab
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.5.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291648
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.5.0.deb
+Size: 8363504
+MD5sum: 0c9ba6bddcc924dab0ac7a534b4d5c27
+SHA1: 6afacf15509b5ac76513696d1ba1047a8b6ea371
+SHA256: 09c93a9beb026c26f7595336d05f002ba4f8429c20e99fc156e4366777f2414b
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.5.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 292732
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.5.1.deb
+Size: 92593152
+MD5sum: 9822e4b26e1c1bb6e7d91a621b8b7a11
+SHA1: ae341b4962239225eab37c0e6ebca45381ec4965
+SHA256: fc6a3a976580297d6303bcf7997916182502144e716cfa0ea45a6b906f43f7a7
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.6.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291736
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.6.0.deb
+Size: 92530748
+MD5sum: 47836301b3d48fa0594f8a41f3a38d15
+SHA1: 437cc3d11223cb4f619ca15099487a8de4214f19
+SHA256: d8baa1afa43f4e1fe0d1f7315b6ff708323e51a0e51b0f192fc91708c07b9b23
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.6.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291736
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.6.1.deb
+Size: 92513908
+MD5sum: c82c8b29fc5334381244b7840473fbbd
+SHA1: e62aa54ab73d9cd022e68785177166baab89426e
+SHA256: e1ee7a4c9986b093c4005d288616fba763be573a74c61863e9659f8908095aa7
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.7.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291644
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.7.0.deb
+Size: 92539220
+MD5sum: 2c738bb2659a1820a972d8a9d058dd6e
+SHA1: e596f32e13f30c21a1e644e12a9f08ee23d65f4c
+SHA256: 1223089a92c079c9121c635203644f3933c53e60c2d95a874eb633d1a3bbcb31
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.7.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291580
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.7.1.deb
+Size: 92502552
+MD5sum: bd51c7c3481f6bbcf9afc235df192873
+SHA1: 4bacb3ac62b2be39b52743c9dfef12a70aa6a0b6
+SHA256: ac80bd2e454cb8af4554f8246187536ca35d7cc7e25c6b6d1934521355533071
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.8.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291940
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.8.0.deb
+Size: 92626632
+MD5sum: b6812d257edaf083be6b2ad9206129c6
+SHA1: 2fb483c6915a26bac4364d213444508fc463af3e
+SHA256: 86889ada2ed24c1fde35f2a0b06558929a7f93178c04b2900b36da2ab9cb2e1e
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.8.1
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291596
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.8.1.deb
+Size: 92498436
+MD5sum: 8574f460c9564d81876e150f6269c925
+SHA1: 169b3199b8f09555ec5bb07c455003b25ca8cfe3
+SHA256: ad2fd0c554701abf1db8e18f5cc6ee672baf0213438464cc5fca37db18264b68
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.8.2
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 291880
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.8.2.deb
+Size: 92622920
+MD5sum: 8539fffd301072ef0aac035fac7dcdd5
+SHA1: 5f00d0c86b1414b0e35e0258e2ff08e1de5ef26d
+SHA256: bbe41a669a6b761a60dbfd2a789c3621e28a39f8e4faa1a282d3b0fd6ae01220
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
+Package: floorp
+Version: 11.9.0
+Architecture: amd64
+Maintainer: Floorp project
+Installed-Size: 292460
+Depends: curl, lsb-release, libasound2 (>= 1.0.16), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.30), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.10.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.10.1), libgcc-s1 (>= 3.3), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.42), libgtk-3-0 (>= 3.14), libharfbuzz0b (>= 0.6.0), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libstdc++6 (>= 9), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxcb-shm0, libxcb1, libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxi6, libxrandr2 (>= 2:1.4.0), libxrender1, libxtst6, fonts-noto-cjk
+Recommends: libcanberra0, libdbusmenu-glib4, libdbusmenu-gtk3-4
+Suggests: fonts-lyx, fonts-mplus
+Provides: gnome-www-browser, www-browser
+Filename: ./floorp-11.9.0.deb
+Size: 92644366
+MD5sum: 22d19458c9cb60d977f91fb939a98342
+SHA1: a32cb9a56bd2e9283e3fff2a7275f986d975d781
+SHA256: bf59a834439253eca454ed5c4c02e25b2ea608536032881d46454245ce386636
+Section: web
+Priority: optional
+Description: Floorp is a new Firefox-based,
+ privacy-preserving browser developed by the Japanese student community.
+Xul-Appid: {ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+
