@@ -1,5 +1,6 @@
 ### This repository is currently being used for backups. Please see here: https://ppa.ablaze.one/
 
+Currently, this repository is being used for backup and may not be working properly as a PPA.
 Floorp repository for Ubuntu.
 
 ## Usage
