@@ -1,4 +1,4 @@
-### This repository is currently being used for backups. Please see here: [https://ppa.ablaze.one/](https://ppa.floorp.app/)
+### This repository is currently being used for backups. Please see here: [https://ppa.floorp.one/](https://ppa.floorp.app/)
 
 Currently, this repository is being used for backup and may not be working properly as a PPA.
 Floorp repository for Ubuntu.
